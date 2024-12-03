@@ -1,6 +1,10 @@
-function hello(){
+
+
+function Hello(){
     return(
+        <>
         <h2>Good Morning</h2>
+        </>
     )
 }
-export default hello
+export default Hello;

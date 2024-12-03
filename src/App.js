@@ -1,10 +1,10 @@
 
-import hello from './hello'
+import Hello from './hello'
 
 function App() {
   return (
     <>
-    <hello />
+    <Hello />
     <h1>Hello Everyone</h1>
     </>
   );
